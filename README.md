@@ -33,7 +33,7 @@
 ------
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=cgvvxx&show_icons=true&theme=great-gatsby" />
+    <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=cgvvxx&show_icons=true&theme=vue-dark" />
   </a>
   <a href="https://solved.ac/cgvvxx" title="Go to Source">
     <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cgvvxx" alt="Solved.ac프로필" />
